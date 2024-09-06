@@ -41,6 +41,7 @@
 * Front-End ★
   * [권지원](https://github.com/G1Coding)
   * [배도현](https://github.com/SnowsFE)
+
  
 ## 💻 주요 기능
 * 앨범 및 곡 업로드
