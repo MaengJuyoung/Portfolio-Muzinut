@@ -34,6 +34,10 @@
 ## 🖤 팀원 소개
 * Back-End
   * [맹주영](https://github.com/MaengJuyoung)
+
+https://github.com/user-attachments/assets/527f2a74-0e19-4b38-95e1-a14ec38fbedb
+
+
   * [윤영관](https://github.com/yoonyeongkwan)
   * [장원재](https://github.com/won-jae-jang)
   * [전영호](https://github.com/youngho3358)
@@ -46,3 +50,7 @@
 * 앨범 및 곡 업로드
 
   
+
+https://github.com/user-attachments/assets/2c08663d-251e-4fce-b170-8a8fb320d7b9
+
+
